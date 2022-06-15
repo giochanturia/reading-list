@@ -1,4 +1,4 @@
-# reading-list
+# Physics and Math
 
 ## Papers
 
