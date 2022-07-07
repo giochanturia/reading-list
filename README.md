@@ -7,6 +7,7 @@
 - [ ] Mandelstam, *Dispersion relations in strong-coupling physics* [10.1088/0034-4885/25/1/304](https://iopscience.iop.org/article/10.1088/0034-4885/25/1/304)
 - [ ] Gan et al., *Precision tests of fundamental physics with η and η′ mesons* [10.1016/j.physrep.2021.11.001](https://inspirehep.net/literature/1804759);
 - [ ] Loll et al., *Quantum gravity in 30 questions* [10.48550/ARXIV.2206.06762](https://arxiv.org/abs/2206.06762);
+- [ ] Blum, Martines de Velasco, *The genesis of the CPT theorem* [10.1140/epjh/s13129-022-00037-w](https://doi.org/10.1140/epjh/s13129-022-00037-w);
 - [ ] Jegerlehner, *The muon g-2* [10.1016/j.physrep.2009.04.003](https://arxiv.org/abs/0902.3360);
 
 <hr>
