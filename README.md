@@ -9,6 +9,7 @@
 - [ ] Loll et al., *Quantum gravity in 30 questions* [10.48550/ARXIV.2206.06762](https://arxiv.org/abs/2206.06762);
 - [ ] Blum, Martines de Velasco, *The genesis of the CPT theorem* [10.1140/epjh/s13129-022-00037-w](https://doi.org/10.1140/epjh/s13129-022-00037-w);
 - [ ] Jegerlehner, *The muon g-2* [10.1016/j.physrep.2009.04.003](https://arxiv.org/abs/0902.3360);
+- [ ] Snowmass, *Formal QFT* [arXiv:2210.03128](https://arxiv.org/abs/2210.03128);
 
 <hr>
 
