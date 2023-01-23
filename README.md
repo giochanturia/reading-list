@@ -19,6 +19,7 @@
 - [x] Carroll, *Lecture Notes on General Relativity* [10.48550/arXiv.gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019);
 - [ ] Pich, *Chiral Perturbation Theory* [10.1088/0034-4885/58/6/001](https://arxiv.org/abs/hep-ph/9502366v1);
 - [ ] Scherer, Schindler, *A Chiral Perturbation Theory Primer* [10.48550/arXiv.hep-ph/0505265](https://arxiv.org/abs/hep-ph/0505265);
+- [ ] de Wolf, *Quantum Computing: Lecture Notes* [10.48550/arXiv.1907.09415](https://arxiv.org/abs/1907.09415)
 
 <hr>
 
