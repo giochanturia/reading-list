@@ -15,6 +15,7 @@
 
 ## Lecture Notes
 
+- [ ] Siegel, *Fields* [arXiv:hep-th/9912205](https://arxiv.org/abs/hep-th/9912205);
 - [ ] Manohar, *Introduction to Effective Field Theories* [10.48550/arXiv.1804.05863](https://arxiv.org/abs/1804.05863);
 - [x] Carroll, *Lecture Notes on General Relativity* [10.48550/arXiv.gr-qc/9712019](https://arxiv.org/abs/gr-qc/9712019);
 - [ ] Pich, *Chiral Perturbation Theory* [10.1088/0034-4885/58/6/001](https://arxiv.org/abs/hep-ph/9502366v1);
